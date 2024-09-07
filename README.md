@@ -1,30 +1,23 @@
-# React + TypeScript + Vite
+Vamos praticar!
+Chegou a hora de aplicar o conhecimento adquirido em nosso encontro.
+Lembrando sempre que os exercícios e desafios serão nossos principais
+indicadores sobre o conhecimento de vocês, tanto para ajudá-los como
+na hora do direcionamento para as vagas.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Agora que você sabe como colocar um estilo nas suas páginas React e
+criar componentes para reaproveitá-los. Vamos praticar o que
+aprendemos.
 
-Currently, two official plugins are available:
+Definições
+1. Baixe o zip com o projeto base.
+2. A partir do projeto base adicione o react-router-dom e crie páginas.
+3. Crie ao menos 3 páginas e adicione redirecionamento para elas.
+4. Utilize props para enviar informações a outros componentes
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este exercício deverá ser postado na Class até o horário estipulado da
+tarefa na plataforma. Crie um arquivo compactado contendo os arquivos
+com a resolução da atividade e realize o upload no post da atividade no
+Class, ou suba no Github e poste o link para o respectivo repositório.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+Para que possamos construir uma base sólida de aprendizado é preciso
+praticar. Bora implementar tudo isso! 🚀
